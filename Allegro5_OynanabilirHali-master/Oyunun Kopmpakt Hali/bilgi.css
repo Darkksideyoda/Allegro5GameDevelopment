@@ -1,0 +1,55 @@
+h1{
+
+  margin-left: auto;
+  margin-right: auto;
+    width: 8em;
+color:MediumSeaGreen;
+
+font-family:cursive;
+text-decoration: none;
+border:dotted;
+border-color: rgb(255, 215,0);
+border-radius: 12px;
+}
+h2
+{
+  margin-left: auto;
+  margin-right: auto;
+    width: 11em;
+    color: Tomato;
+    font-family:arial;
+
+}
+h3
+{
+  margin-left: auto;
+  margin-right: auto;
+  color: DodgerBlue;
+  font-family: arial;
+    width: 23em;
+
+}
+body {
+  background: url(arka.jpg);
+}
+img{
+
+  display: block;
+  margin-top: 50px;
+margin-left: auto;
+margin-right: auto;
+width: 40%;
+}
+p
+{
+  border-color: MediumSeaGreen;
+  border-right: 2px dotted;
+  border-left: 2px dotted;
+  border-top: 2px dotted;
+  border-bottom: 2px dotted;
+  background-color: rgb(106 ,90 ,205);
+  border-radius: 12px;
+  position: absolute;
+  color:rgb(102,205,170);
+  font-family:cursive;
+}

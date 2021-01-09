@@ -1,0 +1,14 @@
+C:\Users\BAHTIYAR\source\repos\EkranAyar\EkranAyar\bin\Debug\EkranAyar.exe.config
+C:\Users\BAHTIYAR\source\repos\EkranAyar\EkranAyar\bin\Debug\EkranAyar.exe
+C:\Users\BAHTIYAR\source\repos\EkranAyar\EkranAyar\bin\Debug\EkranAyar.pdb
+C:\Users\BAHTIYAR\source\repos\EkranAyar\EkranAyar\bin\Debug\MetroFramework.Design.dll
+C:\Users\BAHTIYAR\source\repos\EkranAyar\EkranAyar\bin\Debug\MetroFramework.dll
+C:\Users\BAHTIYAR\source\repos\EkranAyar\EkranAyar\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BAHTIYAR\source\repos\EkranAyar\EkranAyar\obj\Debug\EkranAyar.csprojAssemblyReference.cache
+C:\Users\BAHTIYAR\source\repos\EkranAyar\EkranAyar\obj\Debug\EkranAyar.Form1.resources
+C:\Users\BAHTIYAR\source\repos\EkranAyar\EkranAyar\obj\Debug\EkranAyar.Properties.Resources.resources
+C:\Users\BAHTIYAR\source\repos\EkranAyar\EkranAyar\obj\Debug\EkranAyar.csproj.GenerateResource.cache
+C:\Users\BAHTIYAR\source\repos\EkranAyar\EkranAyar\obj\Debug\EkranAyar.csproj.CoreCompileInputs.cache
+C:\Users\BAHTIYAR\source\repos\EkranAyar\EkranAyar\obj\Debug\EkranAyar.csproj.CopyComplete
+C:\Users\BAHTIYAR\source\repos\EkranAyar\EkranAyar\obj\Debug\EkranAyar.exe
+C:\Users\BAHTIYAR\source\repos\EkranAyar\EkranAyar\obj\Debug\EkranAyar.pdb

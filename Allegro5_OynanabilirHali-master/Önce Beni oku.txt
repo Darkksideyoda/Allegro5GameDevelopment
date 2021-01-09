@@ -1,0 +1,48 @@
+/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*
+												     /
+Oyunun "C" Kodlarını git üzerinden paylaştım ancak Visual Studio'da Çalışan Solution Dosyasını       /
+Malesef Burdan Atıyorum Bunun Sebebi git Bash Kabuğunun  Upload Edilen Projenin Boyutuna Sınırlama   /
+getirmesi. Git-lfs(Git Large File Storage) Kurarak Upload Etmeyi Denedim Ama kaynaklar Çok Sınırlı.  /
+Oyunu Kendi Kullandığım bir debian sürümü olan kali linux'da test'e tabi tuttum.                     /
+linux'da windows .exe formatındaki dosyları açmak için kullanılan "wine" kullandım                   /
+winehq(https://wiki.winehq.org/FAQ)                                                                  /
+Tabiki Açılmasını Beklemiyordum ama Yarım yamalak bir görüntü aldım.                                 /
+hatalı .dll dosyalarını x64 şeklinde kullanılması gerek çünkü oyunu debug mode'da x64 olarak         /
+build ettik.                                                                                         /
+         				 		  		 		 	     /
+Sonuç Olarak Oyun Windows Makinelerde Sorunsuz Çalışmakta....					     /
+/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/**/*/*/*/
+Oyunun Kompakt Halini Çıkarma Sebebim 								     /
+Oyunun Kodlarıyla İlgilenmek Yerine Oyuna Odaklanan Kullanıcıların 				     /
+Hemen BahtiOyun.exe Dosyasına Tıklayarak Başlamasını Sağlıyor Yine Kodlardaki Yorum                  /
+Bloklarına Ulaşamayacaklarından ötürü Bilgilendirme Amacıyla Yazdığım Html Sayfasını                 /
+İnceleyebilirler.Bunun İçinde Başlangıç Aşamasındaki Ayarlar Arayüzündeki sağ üst köşedeki           /
+mavi "İ" Butonuna                                                                                    /
+tıklamaları veya dosya içerisindeki"OyunBilgisi.html" tıklayarak Ulaşabilirler.                      /
+/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/**/*/*/*/
+ 												     /
+ÖNEMLİ NOT:Ekran çözünürlüğünü girerken Kullandığınız Monitörün ekranının en maximum		     /	
+ekran çözünürlüğünü giriniz örneğin:                                                                 /
+monitörünüz 1920x1080 çözünürlükte ama simgelerin masaüstünün küçük göründüğünü                      /
+düşündüğünüz için 1360x768 olarak kullanıyorsunuz.                                                   /
+Değerleri Girerken Bilgisayarınızında Önerdiği Maximum Değeri(1920x1080) Giriniz.                    /
+                                                                                                     /
+ÖNEMLİ NOT 2 : Oyun Başlamadan Önce "BAŞLATMAK İÇİN "O" Basınız yazısını gördüğünüzde                /
+"O" ya bastıktan sonra Enter tuşuna Basmayı unutmayın Sonra Oyun Çalışmıyor Zannedebilirsiniz.       /
+                                                                                                     /
+ÖNEMLİ NOT 3: Oyunun Bulunduğu Dizin BahtiOyun.exe Programının Bulunduğu dizin demek                 /
+(yani "Oyunun Kompakt Hali" klasörünü seçiniz yer değiştirmediğiniz sürece)                          /
+                                                                                                     /
+/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/**/*/*/*/
+                                                                                                     /
+Bunların Dışında;                                                                                    /
+                                                                                                     /
+Kodlara Ulaşılmak İstenirse 									     /
+                                                                                                     /
+Allegro Kodları için:        https://github.com/Darkksideyoda/Allegro5_Oyun_YazOdev                  /
+Grafik Arayüz Kodları için:  https://github.com/Darkksideyoda/Allegro5_Oyun_GUI                      /
+Oyunun Oynanabilir Hali:     https://github.com/Darkksideyoda/Allegro5_OynanabilirHali               /
+                                                                                                     /
+                                                                                                     /
+*/*/**/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*//*//*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*
+BAHTİYAR KARAKOÇ
